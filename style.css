@@ -1,0 +1,51 @@
+body {
+	background: white;
+	font-family:  Times New Roman;
+}
+
+#main
+{
+	
+	text-align : center;
+}
+
+#header
+{
+	background: red;
+	padding: 30px;
+
+}
+
+#header h2
+{
+	color: white;
+	font-size : 50;
+	margin: 0;
+}
+
+#header h3
+{
+	color: white;
+	font-size : 40;
+	margin: 15px auto;
+}
+
+#content
+{
+	padding: 30px;
+}
+
+#footer
+{
+	background: red;
+	font-size :25;
+	color: white;
+	text-align: Center;
+	padding: 30px;
+}
+
+#footer a
+{
+	color: red;
+}
+
